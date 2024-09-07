@@ -1,7 +1,7 @@
 {
-    "name": "INCONNU-V2-MD",
+    "name": "ONE EYED",
     "version": "6.0.0",
-    "description": "WhatsApp War Bot Using Nodejs",
+    "description": "OneyedBot",
     "main": "index.js",
     "type": "commonjs",
     "directories": {
